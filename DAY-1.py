@@ -13,11 +13,11 @@ D = np.array(range(18)) + 3
 
 #(a) Extract every other value from array D starting from the 2nd value through the 10th value. Store the result in a variable called x.
 
-X=D[2:10]
+X=D[1:10]
 
 #(b) Extract every other value from array D starting from the 10th value through the 2nd value. Store the result in a variable called y.
 
-Y=D[10:2:-1]
+Y=D[9:1:-1]
 
 #(c) Create a variable z that contains all of the values in D in reverse order.
 
